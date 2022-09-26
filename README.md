@@ -1,2 +1,0 @@
-# TGWebshop
-React Webshop assignment
