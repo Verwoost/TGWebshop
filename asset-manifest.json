@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TGWebshop/static/css/main.3d10672c.css",
-    "main.js": "/TGWebshop/static/js/main.f84fe091.js",
+    "main.js": "/TGWebshop/static/js/main.7bb3fe63.js",
     "static/media/all-sneakers.jpg": "/TGWebshop/static/media/all-sneakers.62a06295f8bdcc683028.jpg",
     "static/media/all-sneakers_sm.jpg": "/TGWebshop/static/media/all-sneakers_sm.b96bddc437c03a5e8ce0.jpg",
     "static/media/1003.webp": "/TGWebshop/static/media/1003.14e27bbd343c9bc8ebe8.webp",
@@ -38,10 +38,10 @@
     "static/media/close.svg": "/TGWebshop/static/media/close.0bcc47ca919e4f15a7d2c20477fd678b.svg",
     "static/media/adidasLogo.svg": "/TGWebshop/static/media/adidasLogo.1defdb9d541a977a43027c068730d54e.svg",
     "main.3d10672c.css.map": "/TGWebshop/static/css/main.3d10672c.css.map",
-    "main.f84fe091.js.map": "/TGWebshop/static/js/main.f84fe091.js.map"
+    "main.7bb3fe63.js.map": "/TGWebshop/static/js/main.7bb3fe63.js.map"
   },
   "entrypoints": [
     "static/css/main.3d10672c.css",
-    "static/js/main.f84fe091.js"
+    "static/js/main.7bb3fe63.js"
   ]
 }
